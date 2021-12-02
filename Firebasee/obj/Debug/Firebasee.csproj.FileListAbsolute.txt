@@ -1,0 +1,74 @@
+D:\VisualStudio_Project\Firebasee\Firebasee\bin\Debug\Firebasee.exe.config
+D:\VisualStudio_Project\Firebasee\Firebasee\bin\Debug\Firebasee.exe
+D:\VisualStudio_Project\Firebasee\Firebasee\bin\Debug\Firebasee.pdb
+D:\VisualStudio_Project\Firebasee\Firebasee\bin\Debug\FireSharp.dll
+D:\VisualStudio_Project\Firebasee\Firebasee\bin\Debug\Microsoft.Threading.Tasks.dll
+D:\VisualStudio_Project\Firebasee\Firebasee\bin\Debug\Microsoft.Threading.Tasks.Extensions.Desktop.dll
+D:\VisualStudio_Project\Firebasee\Firebasee\bin\Debug\Microsoft.Threading.Tasks.Extensions.dll
+D:\VisualStudio_Project\Firebasee\Firebasee\bin\Debug\Newtonsoft.Json.dll
+D:\VisualStudio_Project\Firebasee\Firebasee\bin\Debug\System.Net.Http.Extensions.dll
+D:\VisualStudio_Project\Firebasee\Firebasee\bin\Debug\System.Net.Http.Primitives.dll
+D:\VisualStudio_Project\Firebasee\Firebasee\bin\Debug\Microsoft.Threading.Tasks.xml
+D:\VisualStudio_Project\Firebasee\Firebasee\bin\Debug\Microsoft.Threading.Tasks.Extensions.xml
+D:\VisualStudio_Project\Firebasee\Firebasee\bin\Debug\Microsoft.Threading.Tasks.Extensions.Desktop.xml
+D:\VisualStudio_Project\Firebasee\Firebasee\bin\Debug\Newtonsoft.Json.xml
+D:\VisualStudio_Project\Firebasee\Firebasee\bin\Debug\System.Net.Http.Extensions.xml
+D:\VisualStudio_Project\Firebasee\Firebasee\bin\Debug\System.Net.Http.Primitives.xml
+D:\VisualStudio_Project\Firebasee\Firebasee\obj\Debug\Firebasee.csproj.App.config
+D:\VisualStudio_Project\Firebasee\Firebasee\obj\Debug\Firebasee.csproj.AssemblyReference.cache
+D:\VisualStudio_Project\Firebasee\Firebasee\obj\Debug\Firebasee.Form1.resources
+D:\VisualStudio_Project\Firebasee\Firebasee\obj\Debug\Firebasee.Properties.Resources.resources
+D:\VisualStudio_Project\Firebasee\Firebasee\obj\Debug\Firebasee.csproj.GenerateResource.cache
+D:\VisualStudio_Project\Firebasee\Firebasee\obj\Debug\Firebasee.csproj.CoreCompileInputs.cache
+D:\VisualStudio_Project\Firebasee\Firebasee\obj\Debug\Firebasee.csproj.CopyComplete
+D:\VisualStudio_Project\Firebasee\Firebasee\obj\Debug\Firebasee.exe
+D:\VisualStudio_Project\Firebasee\Firebasee\obj\Debug\Firebasee.pdb
+D:\VisualStudio_Project\Firebase\Firebasee\bin\Debug\Firebasee.exe.config
+D:\VisualStudio_Project\Firebase\Firebasee\bin\Debug\Firebasee.exe
+D:\VisualStudio_Project\Firebase\Firebasee\bin\Debug\Firebasee.pdb
+D:\VisualStudio_Project\Firebase\Firebasee\bin\Debug\FireSharp.dll
+D:\VisualStudio_Project\Firebase\Firebasee\bin\Debug\Microsoft.Threading.Tasks.dll
+D:\VisualStudio_Project\Firebase\Firebasee\bin\Debug\Microsoft.Threading.Tasks.Extensions.Desktop.dll
+D:\VisualStudio_Project\Firebase\Firebasee\bin\Debug\Microsoft.Threading.Tasks.Extensions.dll
+D:\VisualStudio_Project\Firebase\Firebasee\bin\Debug\Newtonsoft.Json.dll
+D:\VisualStudio_Project\Firebase\Firebasee\bin\Debug\System.Net.Http.Extensions.dll
+D:\VisualStudio_Project\Firebase\Firebasee\bin\Debug\System.Net.Http.Primitives.dll
+D:\VisualStudio_Project\Firebase\Firebasee\bin\Debug\Microsoft.Threading.Tasks.xml
+D:\VisualStudio_Project\Firebase\Firebasee\bin\Debug\Microsoft.Threading.Tasks.Extensions.xml
+D:\VisualStudio_Project\Firebase\Firebasee\bin\Debug\Microsoft.Threading.Tasks.Extensions.Desktop.xml
+D:\VisualStudio_Project\Firebase\Firebasee\bin\Debug\Newtonsoft.Json.xml
+D:\VisualStudio_Project\Firebase\Firebasee\bin\Debug\System.Net.Http.Extensions.xml
+D:\VisualStudio_Project\Firebase\Firebasee\bin\Debug\System.Net.Http.Primitives.xml
+D:\VisualStudio_Project\Firebase\Firebasee\obj\Debug\Firebasee.csproj.App.config
+D:\VisualStudio_Project\Firebase\Firebasee\obj\Debug\Firebasee.csproj.AssemblyReference.cache
+D:\VisualStudio_Project\Firebase\Firebasee\obj\Debug\Firebasee.Form1.resources
+D:\VisualStudio_Project\Firebase\Firebasee\obj\Debug\Firebasee.Properties.Resources.resources
+D:\VisualStudio_Project\Firebase\Firebasee\obj\Debug\Firebasee.csproj.GenerateResource.cache
+D:\VisualStudio_Project\Firebase\Firebasee\obj\Debug\Firebasee.csproj.CoreCompileInputs.cache
+D:\VisualStudio_Project\Firebase\Firebasee\obj\Debug\Firebasee.csproj.CopyComplete
+D:\VisualStudio_Project\Firebase\Firebasee\obj\Debug\Firebasee.exe
+D:\VisualStudio_Project\Firebase\Firebasee\obj\Debug\Firebasee.pdb
+C:\Users\Thien Thien\Desktop\CUỐI KÌ 2021\CSDL NÂNG CAO\Firebase\Firebasee\bin\Debug\Firebasee.exe.config
+C:\Users\Thien Thien\Desktop\CUỐI KÌ 2021\CSDL NÂNG CAO\Firebase\Firebasee\bin\Debug\Firebasee.exe
+C:\Users\Thien Thien\Desktop\CUỐI KÌ 2021\CSDL NÂNG CAO\Firebase\Firebasee\bin\Debug\Firebasee.pdb
+C:\Users\Thien Thien\Desktop\CUỐI KÌ 2021\CSDL NÂNG CAO\Firebase\Firebasee\bin\Debug\FireSharp.dll
+C:\Users\Thien Thien\Desktop\CUỐI KÌ 2021\CSDL NÂNG CAO\Firebase\Firebasee\bin\Debug\Microsoft.Threading.Tasks.dll
+C:\Users\Thien Thien\Desktop\CUỐI KÌ 2021\CSDL NÂNG CAO\Firebase\Firebasee\bin\Debug\Microsoft.Threading.Tasks.Extensions.Desktop.dll
+C:\Users\Thien Thien\Desktop\CUỐI KÌ 2021\CSDL NÂNG CAO\Firebase\Firebasee\bin\Debug\Microsoft.Threading.Tasks.Extensions.dll
+C:\Users\Thien Thien\Desktop\CUỐI KÌ 2021\CSDL NÂNG CAO\Firebase\Firebasee\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Thien Thien\Desktop\CUỐI KÌ 2021\CSDL NÂNG CAO\Firebase\Firebasee\bin\Debug\System.Net.Http.Extensions.dll
+C:\Users\Thien Thien\Desktop\CUỐI KÌ 2021\CSDL NÂNG CAO\Firebase\Firebasee\bin\Debug\System.Net.Http.Primitives.dll
+C:\Users\Thien Thien\Desktop\CUỐI KÌ 2021\CSDL NÂNG CAO\Firebase\Firebasee\bin\Debug\Microsoft.Threading.Tasks.xml
+C:\Users\Thien Thien\Desktop\CUỐI KÌ 2021\CSDL NÂNG CAO\Firebase\Firebasee\bin\Debug\Microsoft.Threading.Tasks.Extensions.xml
+C:\Users\Thien Thien\Desktop\CUỐI KÌ 2021\CSDL NÂNG CAO\Firebase\Firebasee\bin\Debug\Microsoft.Threading.Tasks.Extensions.Desktop.xml
+C:\Users\Thien Thien\Desktop\CUỐI KÌ 2021\CSDL NÂNG CAO\Firebase\Firebasee\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Thien Thien\Desktop\CUỐI KÌ 2021\CSDL NÂNG CAO\Firebase\Firebasee\bin\Debug\System.Net.Http.Extensions.xml
+C:\Users\Thien Thien\Desktop\CUỐI KÌ 2021\CSDL NÂNG CAO\Firebase\Firebasee\bin\Debug\System.Net.Http.Primitives.xml
+C:\Users\Thien Thien\Desktop\CUỐI KÌ 2021\CSDL NÂNG CAO\Firebase\Firebasee\obj\Debug\Firebasee.csproj.App.config
+C:\Users\Thien Thien\Desktop\CUỐI KÌ 2021\CSDL NÂNG CAO\Firebase\Firebasee\obj\Debug\Firebasee.csproj.AssemblyReference.cache
+C:\Users\Thien Thien\Desktop\CUỐI KÌ 2021\CSDL NÂNG CAO\Firebase\Firebasee\obj\Debug\Firebasee.Form1.resources
+C:\Users\Thien Thien\Desktop\CUỐI KÌ 2021\CSDL NÂNG CAO\Firebase\Firebasee\obj\Debug\Firebasee.Properties.Resources.resources
+C:\Users\Thien Thien\Desktop\CUỐI KÌ 2021\CSDL NÂNG CAO\Firebase\Firebasee\obj\Debug\Firebasee.csproj.GenerateResource.cache
+C:\Users\Thien Thien\Desktop\CUỐI KÌ 2021\CSDL NÂNG CAO\Firebase\Firebasee\obj\Debug\Firebasee.csproj.CoreCompileInputs.cache
+C:\Users\Thien Thien\Desktop\CUỐI KÌ 2021\CSDL NÂNG CAO\Firebase\Firebasee\obj\Debug\Firebasee.exe
+C:\Users\Thien Thien\Desktop\CUỐI KÌ 2021\CSDL NÂNG CAO\Firebase\Firebasee\obj\Debug\Firebasee.pdb
